@@ -4,8 +4,6 @@
 Exchange Notices, the DCM Rulebook, and the public Trade API. Primary PDFs are cached in
 [`docs/sources/`](sources/).
 
-Side-by-side against Polymarket US: [`venue-comparison.md`](venue-comparison.md).
-
 There is no single "Kalshi market-maker programme." There are four, and which one you fall
 under determines both what you can earn and what you are allowed to know.
 
