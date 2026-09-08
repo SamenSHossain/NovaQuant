@@ -4,7 +4,9 @@
 Exchange Notices, the DCM Rulebook, and the public Trade API. Primary PDFs are cached in
 [`docs/sources/`](sources/).
 
-Side-by-side against Polymarket US: [`venue-comparison.md`](venue-comparison.md).
+Every dollar figure below is a numerator. The denominator and hurdle are defined in
+[`benchmark.md`](benchmark.md) — returns are quoted as a spread to the T-bill yield on the
+same cash.
 
 There is no single "Kalshi market-maker programme." There are four, and which one you fall
 under determines both what you can earn and what you are allowed to know.
