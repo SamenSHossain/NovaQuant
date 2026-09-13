@@ -1,0 +1,8 @@
+# Raw scraped payloads: large (~7 MB) and dominated by per-game symbol slugs that
+# churn daily. The parameter snapshots in data/*.json are the diffable record.
+data/raw/
+
+__pycache__/
+*.pyc
+.env
+.DS_Store

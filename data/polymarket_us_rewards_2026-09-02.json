@@ -1,0 +1,1846 @@
+{
+  "programs": [
+    {
+      "discountFactor": 0.15,
+      "market_count": 2434,
+      "name": "CFB T1 Spreads Live",
+      "period": "live",
+      "programId": "cfb_t1_spreads_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 10500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 75000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 3,
+      "name": "Lpga Tour Round 4",
+      "period": "tournament_with_cutoff",
+      "programId": "lpga_tour_round_4_20260811",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 10000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOLF"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 3,
+      "name": "PGA Round 4",
+      "period": "tournament_with_cutoff",
+      "programId": "pga_round_4_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 10000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOLF"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 482,
+      "name": "UFC Main Moneyline Live",
+      "period": "live",
+      "programId": "ufc_main_moneyline_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 10000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "COMBAT"
+      ],
+      "targetSize": 20000
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 1579,
+      "name": "CFB T1 Totals Live",
+      "period": "live",
+      "programId": "cfb_t1_totals_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 8250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 30000
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 2434,
+      "name": "CFB T1 Spreads DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_spreads_day_of_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 5250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 22500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 3,
+      "name": "PGA Pretournament",
+      "period": "tournament_with_cutoff",
+      "programId": "pga_pretournament_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 5000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOLF"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.1,
+      "market_count": 60,
+      "name": "CFB T1 ML Live",
+      "period": "live",
+      "programId": "cfb_t1_ml_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 4500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 60000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 1080,
+      "name": "CFB T1 Period Winners Live",
+      "period": "live",
+      "programId": "cfb_t1_period_winners_live_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 4125,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 7198,
+      "name": "CFB T1 Team Props Live",
+      "period": "live",
+      "programId": "cfb_t1_team_props_live_20260829",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 4125,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 9000
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 1579,
+      "name": "CFB T1 Totals DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_totals_day_of_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 4125,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 22500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 20,
+      "name": "EPL Teamwin Live",
+      "period": "live",
+      "programId": "epl_teamwin_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 4000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 1800,
+      "name": "CFB T1 Period Spreads Live",
+      "period": "live",
+      "programId": "cfb_t1_period_spreads_live_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 1611,
+      "name": "CFB T1 Period Totals Live",
+      "period": "live",
+      "programId": "cfb_t1_period_totals_live_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3375,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 264,
+      "name": "CFB T1 Team Totals Live",
+      "period": "live",
+      "programId": "cfb_t1_team_totals_live_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3375,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 5844,
+      "name": "CFB T2 Spreads Live",
+      "period": "live",
+      "programId": "cfb_t2_spreads_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 30000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 36,
+      "name": "UCL Teamwin Live",
+      "period": "live",
+      "programId": "ucl_teamwin_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 1080,
+      "name": "CFB T1 Period Winners DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_period_winners_day_of_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 2434,
+      "name": "CFB T1 Spreads Early",
+      "period": "early",
+      "programId": "cfb_t1_spreads_early_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 22500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 7198,
+      "name": "CFB T1 Team Props DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_team_props_day_of_20260829",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 3000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 9000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 55,
+      "name": "MLB Moneyline Live",
+      "period": "live",
+      "programId": "mlb_moneyline_live_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 25000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 129,
+      "name": "US Open",
+      "period": "live",
+      "programId": "us_open_20260824",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "TENNIS"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 81,
+      "name": "US Open Womens",
+      "period": "live",
+      "programId": "us_open_womens_20260901",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "TENNIS"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 21,
+      "name": "Ligamx Moneyline Live",
+      "period": "live",
+      "programId": "ligamx_moneyline_live_20260714",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2400,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 1800,
+      "name": "CFB T1 Period Spreads DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_period_spreads_day_of_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 264,
+      "name": "CFB T1 Team Totals DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_team_totals_day_of_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 1579,
+      "name": "CFB T1 Totals Early",
+      "period": "early",
+      "programId": "cfb_t1_totals_early_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 22500
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 3784,
+      "name": "CFB T2 Totals Live",
+      "period": "live",
+      "programId": "cfb_t2_totals_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2175,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 11250
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 68,
+      "name": "Leagues CUP",
+      "period": "live",
+      "programId": "leagues_cup_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 3,
+      "name": "Lpga Tour PRE Tournament",
+      "period": "tournament_with_cutoff",
+      "programId": "lpga_tour_pre_tournament_20260811",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 2000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOLF"
+      ],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 1611,
+      "name": "CFB T1 Period Totals DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_period_totals_day_of_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1875,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 18,
+      "name": "Bundesliga Teamwin Live",
+      "period": "live",
+      "programId": "bundesliga_teamwin_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1600,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 22,
+      "name": "Laliga Teamwin Live",
+      "period": "live",
+      "programId": "laliga_teamwin_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1600,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 20,
+      "name": "Seriea Teamwin Live",
+      "period": "live",
+      "programId": "seriea_teamwin_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1600,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 5844,
+      "name": "CFB T2 Spreads DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t2_spreads_day_of_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 11250
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 482,
+      "name": "UFC Main Moneyline Day-of",
+      "period": "day_of",
+      "programId": "ufc_main_moneyline_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "COMBAT"
+      ],
+      "targetSize": 20000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 18,
+      "name": "UFC Main Moneyline Early",
+      "period": "early",
+      "programId": "ufc_main_moneyline_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 20000
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 194,
+      "name": "CFB T2 ML Live",
+      "period": "live",
+      "programId": "cfb_t2_ml_live_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 22500
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 2106,
+      "name": "CFB T2 Period Winners Live",
+      "period": "live",
+      "programId": "cfb_t2_period_winners_live_20260831",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 3750
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 268,
+      "name": "MLB Spreads Live",
+      "period": "live",
+      "programId": "mlb_spreads_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 171,
+      "name": "MLB Totals Live",
+      "period": "live",
+      "programId": "mlb_totals_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 3784,
+      "name": "CFB T2 Totals DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t2_totals_day_of_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1125,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 11250
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 10,
+      "name": "EPL Draw Live",
+      "period": "live",
+      "programId": "epl_draw_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 2,
+      "name": "Elections Boosted High",
+      "period": "daily_event",
+      "programId": "elections_boosted_high_20260827",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "USSTATE"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 1,
+      "name": "FL Markets",
+      "period": "live",
+      "programId": "fl_markets_20260812",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "USLEGISLAT"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 93,
+      "name": "NBA Winner Futures",
+      "period": "daily_event",
+      "programId": "nba_winner_futures_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 1000,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "BASKETBALL"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 97,
+      "name": "ATP WTA Moneyline Live",
+      "period": "live",
+      "programId": "atp_wta_moneyline_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 9,
+      "name": "Bundesliga Draw Live",
+      "period": "live",
+      "programId": "bundesliga_draw_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 55,
+      "name": "Crypto",
+      "period": "daily",
+      "programId": "crypto_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "COIN"
+      ],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 44,
+      "name": "F1 Race Winner Live",
+      "period": "live",
+      "programId": "f1_race_winner_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 11,
+      "name": "Laliga Draw Live",
+      "period": "live",
+      "programId": "laliga_draw_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 68,
+      "name": "Nascar Race Winner Live",
+      "period": "live",
+      "programId": "nascar_race_winner_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "MOTORSPORT"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 10,
+      "name": "Seriea Draw Live",
+      "period": "live",
+      "programId": "seriea_draw_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 18,
+      "name": "UCL Draw Live",
+      "period": "live",
+      "programId": "ucl_draw_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 22,
+      "name": "UFC Prelim Moneyline Live",
+      "period": "live",
+      "programId": "ufc_prelim_moneyline_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 800,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 60,
+      "name": "CFB T1 ML DAY OF",
+      "period": "day_of",
+      "programId": "cfb_t1_ml_day_of_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 45000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 30,
+      "name": "Climate",
+      "period": "live",
+      "programId": "climate_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 3499,
+      "name": "MLB Player Props DAY OF",
+      "period": "day_of",
+      "programId": "mlb_player_props_day_of_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 3499,
+      "name": "MLB Player Props Live",
+      "period": "live",
+      "programId": "mlb_player_props_live_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 708,
+      "name": "MLB Team Props DAY OF",
+      "period": "day_of",
+      "programId": "mlb_team_props_day_of_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 708,
+      "name": "MLB Team Props Live",
+      "period": "live",
+      "programId": "mlb_team_props_live_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 750,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 103,
+      "name": "ATP WTA Futures",
+      "period": "daily_event",
+      "programId": "atp_wta_futures_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "TENNIS"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 73,
+      "name": "CBB National Champ Futures",
+      "period": "daily_event",
+      "programId": "cbb_national_champ_futures_20260724",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "BASKETBALL"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 144,
+      "name": "Esports Moneyline Live",
+      "period": "live",
+      "programId": "esports_moneyline_live_20260818",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 707,
+      "name": "MLB Futures Preevent",
+      "period": "daily_event",
+      "programId": "mlb_futures_preevent_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "BASEBALL",
+        "FOOTBALL"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 55,
+      "name": "MLB Moneyline DAY OF",
+      "period": "day_of",
+      "programId": "mlb_moneyline_day_of_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 25000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 60,
+      "name": "NBA Next Team Futures",
+      "period": "daily_event",
+      "programId": "nba_next_team_futures_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "BASKETBALL"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 482,
+      "name": "UFC Main Props Day-of",
+      "period": "day_of",
+      "programId": "ufc_main_props_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "COMBAT"
+      ],
+      "targetSize": 1000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 482,
+      "name": "UFC Main Props Live",
+      "period": "live",
+      "programId": "ufc_main_props_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 500,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "COMBAT"
+      ],
+      "targetSize": 1000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 3,
+      "name": "Cricket Moneyline Live",
+      "period": "live",
+      "programId": "cricket_moneyline_live_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 400,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 1658,
+      "name": "Soccer Spreads Totals Live",
+      "period": "live",
+      "programId": "soccer_spreads_totals_live_20260825",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 400,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 36,
+      "name": "UCL Teamwin Day-of",
+      "period": "day_of",
+      "programId": "ucl_teamwin_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 400,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 36,
+      "name": "UCL Teamwin Early",
+      "period": "early",
+      "programId": "ucl_teamwin_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 400,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 15,
+      "name": "Elections Boosted Medium",
+      "period": "daily_event",
+      "programId": "elections_boosted_medium_20260827",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "USSTATE"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 21,
+      "name": "Ligamx Moneyline Day-of",
+      "period": "day_of",
+      "programId": "ligamx_moneyline_dayof_20260714",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 21,
+      "name": "Ligamx Moneyline Early",
+      "period": "early",
+      "programId": "ligamx_moneyline_early_20260714",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 399,
+      "name": "NFL Futures Core",
+      "period": "daily_event",
+      "programId": "nfl_futures_core_20260810",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "FOOTBALL"
+      ],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 23,
+      "name": "Politics High",
+      "period": "daily_event",
+      "programId": "politics_high_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 300,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOODS",
+        "USCONGRESS",
+        "USSTATE"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 55,
+      "name": "EPL Futures Preevent",
+      "period": "daily_event",
+      "programId": "epl_futures_preevent_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "SOCCER"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 60,
+      "name": "MLS Futures",
+      "period": "daily_event",
+      "programId": "mls_futures_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "SOCCER"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.45,
+      "market_count": 1167,
+      "name": "Soccer Player Props DAY OF",
+      "period": "day_of",
+      "programId": "soccer_player_props_day_of_20260825",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 1167,
+      "name": "Soccer Player Props Live",
+      "period": "live",
+      "programId": "soccer_player_props_live_20260825",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 41,
+      "name": "UCL Futures Preevent",
+      "period": "daily_event",
+      "programId": "ucl_futures_preevent_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "SOCCER"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 20,
+      "name": "Wnba Futures",
+      "period": "daily_event",
+      "programId": "wnba_futures_20260724",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 250,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "BASKETBALL"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 55,
+      "name": "MLB Moneyline Early",
+      "period": "early",
+      "programId": "mlb_moneyline_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 225,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 20000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 268,
+      "name": "MLB Spreads Day-of",
+      "period": "day_of",
+      "programId": "mlb_spreads_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 225,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 171,
+      "name": "MLB Totals Day-of",
+      "period": "day_of",
+      "programId": "mlb_totals_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 225,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 659,
+      "name": "ATP Spreads",
+      "period": "live",
+      "programId": "atp_spreads_20260720",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 97,
+      "name": "ATP WTA Moneyline DAY OF",
+      "period": "day_of",
+      "programId": "atp_wta_moneyline_day_of_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 18,
+      "name": "Bundesliga Teamwin Day-of",
+      "period": "day_of",
+      "programId": "bundesliga_teamwin_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 18,
+      "name": "Bundesliga Teamwin Early",
+      "period": "early",
+      "programId": "bundesliga_teamwin_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 20,
+      "name": "EPL Team WIN DAY OF",
+      "period": "day_of",
+      "programId": "epl_team_win_day_of_20260811",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 22,
+      "name": "Laliga Teamwin Day-of",
+      "period": "day_of",
+      "programId": "laliga_teamwin_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 22,
+      "name": "Laliga Teamwin Early",
+      "period": "early",
+      "programId": "laliga_teamwin_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 68,
+      "name": "Leagues CUP DAY OF",
+      "period": "day_of",
+      "programId": "leagues_cup_day_of_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.9,
+      "market_count": 64,
+      "name": "NHL Playoffs Series Winner Futures",
+      "period": "daily_event",
+      "programId": "nhl_playoffs_series_winner_futures_20260728",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "ICEHOCKEY"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 60,
+      "name": "Presidential Election 2028",
+      "period": "daily_event",
+      "programId": "presidential_election_2028",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 20000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 20,
+      "name": "Seriea Teamwin Day-of",
+      "period": "day_of",
+      "programId": "seriea_teamwin_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 20,
+      "name": "Seriea Teamwin Early",
+      "period": "early",
+      "programId": "seriea_teamwin_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 488,
+      "name": "WTA Spreads AND Totals",
+      "period": "live",
+      "programId": "wta_spreads_and_totals_20260728",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 200,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.45,
+      "market_count": 18,
+      "name": "Darts",
+      "period": "daily_event",
+      "programId": "darts_20260728",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 150,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "DARTS"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 269,
+      "name": "ITF ML Live",
+      "period": "live",
+      "programId": "itf_ml_live_20260731",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 150,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 45,
+      "name": "Macro High",
+      "period": "daily_event",
+      "programId": "macro_high_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 150,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "MONETARY"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 1658,
+      "name": "Soccer Spreads Totals DAY OF",
+      "period": "day_of",
+      "programId": "soccer_spreads_totals_day_of_20260825",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 150,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.1,
+      "market_count": 62,
+      "name": "Technology",
+      "period": "daily_event",
+      "programId": "technology_20260728",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 150,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "AI"
+      ],
+      "targetSize": 1000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 270,
+      "name": "ATP Player Props",
+      "period": "live",
+      "programId": "atp_player_props_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 9,
+      "name": "Bundesliga Draw Day-of",
+      "period": "day_of",
+      "programId": "bundesliga_draw_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 9,
+      "name": "Bundesliga Draw Early",
+      "period": "early",
+      "programId": "bundesliga_draw_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.3,
+      "market_count": 325,
+      "name": "Culture High",
+      "period": "daily_event",
+      "programId": "culture_high_20260821",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "AWD",
+        "GAME",
+        "MUSIC",
+        "TV",
+        "USFEDGOV"
+      ],
+      "targetSize": 500
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 25,
+      "name": "Darts Moneyline Live",
+      "period": "live",
+      "programId": "darts_moneyline_live_20260814",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 144,
+      "name": "Esports Moneyline PRE Game",
+      "period": "day_of",
+      "programId": "esports_moneyline_pre_game_20260728",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 44,
+      "name": "F1 Race Winner DAY OF",
+      "period": "day_of",
+      "programId": "f1_race_winner_day_of_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 44,
+      "name": "F1 Race Winner Early",
+      "period": "early",
+      "programId": "f1_race_winner_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 73,
+      "name": "Finance",
+      "period": "daily_event",
+      "programId": "finance_20260729",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "AI",
+        "EARNINGS",
+        "EXECUTIVE",
+        "IPO"
+      ],
+      "targetSize": 500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 11,
+      "name": "Laliga Draw Day-of",
+      "period": "day_of",
+      "programId": "laliga_draw_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 11,
+      "name": "Laliga Draw Early",
+      "period": "early",
+      "programId": "laliga_draw_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 762,
+      "name": "NFL Fantasy Futures",
+      "period": "daily_event",
+      "programId": "nfl_fantasy_futures_20260806",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "FOOTBALL"
+      ],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 68,
+      "name": "Nascar Race Winner DAY OF",
+      "period": "day_of",
+      "programId": "nascar_race_winner_day_of_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "MOTORSPORT"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 68,
+      "name": "Nascar Race Winner Early",
+      "period": "early",
+      "programId": "nascar_race_winner_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "MOTORSPORT"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.2,
+      "market_count": 82,
+      "name": "Politics MID",
+      "period": "daily_event",
+      "programId": "politics_mid_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "USCONGRESS",
+        "USFEDGOV",
+        "USLEGISLAT",
+        "USSTATE"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 10,
+      "name": "Seriea Draw Day-of",
+      "period": "day_of",
+      "programId": "seriea_draw_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 10,
+      "name": "Seriea Draw Early",
+      "period": "early",
+      "programId": "seriea_draw_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 150,
+      "name": "Table Tennis Moneyline Live",
+      "period": "live",
+      "programId": "table_tennis_moneyline_live_20260721",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 18,
+      "name": "UCL Draw Day-of",
+      "period": "day_of",
+      "programId": "ucl_draw_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 18,
+      "name": "UCL Draw Early",
+      "period": "early",
+      "programId": "ucl_draw_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 22,
+      "name": "UFC Prelim Moneyline Day-of",
+      "period": "day_of",
+      "programId": "ufc_prelim_moneyline_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 22,
+      "name": "UFC Prelim Moneyline Early",
+      "period": "early",
+      "programId": "ufc_prelim_moneyline_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 100,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.45,
+      "market_count": 1526,
+      "name": "CFB Futures",
+      "period": "daily_event",
+      "programId": "cfb_futures_20260806",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 75,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "FOOTBALL"
+      ],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 3,
+      "name": "Cricket Moneyline Day-of",
+      "period": "day_of",
+      "programId": "cricket_moneyline_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 75,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 11,
+      "name": "Geopolitics",
+      "period": "daily_event",
+      "programId": "geopolitics_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 75,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "GOODS",
+        "TREATY"
+      ],
+      "targetSize": 2000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 268,
+      "name": "MLB Spreads Early",
+      "period": "early",
+      "programId": "mlb_spreads_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 75,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 171,
+      "name": "MLB Totals Early",
+      "period": "early",
+      "programId": "mlb_totals_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 75,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 15000
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 363,
+      "name": "Culture LOW",
+      "period": "daily_event",
+      "programId": "culture_low_20260821",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 50,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "AWD",
+        "MUSIC"
+      ],
+      "targetSize": 500
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 344,
+      "name": "Esports Props Live",
+      "period": "live",
+      "programId": "esports_props_live_20260818",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 50,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 1500
+    },
+    {
+      "discountFactor": 0.25,
+      "market_count": 8,
+      "name": "Science",
+      "period": "daily_event",
+      "programId": "science_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 50,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "DISEASE"
+      ],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 867,
+      "name": "Soccer Futures",
+      "period": "daily",
+      "programId": "soccer_futures_20260826",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 50,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "SOCCER"
+      ],
+      "targetSize": 2500
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 25,
+      "name": "Darts Moneyline DAY OF",
+      "period": "day_of",
+      "programId": "darts_moneyline_day_of_20260814",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 35,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 150,
+      "name": "Table Tennis Moneyline DAY OF",
+      "period": "day_of",
+      "programId": "table_tennis_moneyline_day_of_20260721",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 35,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 269,
+      "name": "ITF Moneyline Day-of",
+      "period": "day_of",
+      "programId": "itf_moneyline_dayof_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 30,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 7500
+    },
+    {
+      "discountFactor": 0.15,
+      "market_count": 20,
+      "name": "Macro LOW",
+      "period": "daily_event",
+      "programId": "macro_low_20260804",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 30,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "MONETARY"
+      ],
+      "targetSize": 5000
+    },
+    {
+      "discountFactor": 0.4,
+      "market_count": 3,
+      "name": "Cricket Moneyline Early",
+      "period": "early",
+      "programId": "cricket_moneyline_early_20260712",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 25,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 10000
+    },
+    {
+      "discountFactor": 0.1,
+      "market_count": 322,
+      "name": "Politics LOW",
+      "period": "daily_event",
+      "programId": "politics_low_20260727",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 25,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [
+        "ARGPOL",
+        "BRAPOL",
+        "FRAPOL",
+        "ISRPOL",
+        "NETPOL",
+        "RUSPOL",
+        "UKPOL",
+        "USCONGRESS",
+        "USFEDGOV",
+        "USPRES",
+        "USSTATE",
+        "VENPOL"
+      ],
+      "targetSize": 2000
+    },
+    {
+      "discountFactor": 0.35,
+      "market_count": 344,
+      "name": "Esports Props PRE Game",
+      "period": "day_of",
+      "programId": "esports_props_pre_game_20260720",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 20,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 3000
+    },
+    {
+      "discountFactor": 0.5,
+      "market_count": 344,
+      "name": "Esports Props PRE Game",
+      "period": "day_of",
+      "programId": "esports_props_pre_game_20260818",
+      "pulled_at": "2026-09-02T18:55:03Z",
+      "rewardPool": 20,
+      "source_url": "https://polymarket.us/rewards",
+      "subcategories": [],
+      "targetSize": 1500
+    }
+  ],
+  "pulled_at": "2026-09-02T18:55:03Z",
+  "source_url": "https://polymarket.us/rewards"
+}
